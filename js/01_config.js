@@ -1,6 +1,6 @@
 // ==================== 实验全局配置 ====================
 const EXPERIMENT_CONFIG = {
-    imageFolder: "./images/",       // 图片文件夹路径（使用相对路径，适合GitHub部署）
+    imageFolder: "./artpic/",       // 图片文件夹路径（相对路径）
     totalTrials: 100,               // 总试次数（100张图片）
     fixationDuration: 1000,         // 注视点持续时长（毫秒）
     blankDuration: 500,             // 空屏持续时长（毫秒）
